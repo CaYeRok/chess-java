@@ -4,10 +4,10 @@ move the piece will then move there. To castle you move the king two spaces left
 capturing the other king. The board will then reset and point will be awarded. 
 -----------------------
 WIP: 
-     check
-     checkmate
-     resizing of the board
-     bordered window that can be moved
-     simple vs computer mode with menu
+     check,
+     checkmate,
+     resizing of the board,
+     bordered window that can be moved,
+     simple vs computer mode with menu,
      en-passant
      
